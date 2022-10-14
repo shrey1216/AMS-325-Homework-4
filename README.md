@@ -1,7 +1,7 @@
 # AMS-325-Homework-4
 #This repository contains two tasks. 
 
-#Tast 1: Mandelbrot Sets
+#Task 1: Mandelbrot Sets
 The first task is relating to Mandelbrot sets. The function mandelbrot takes in the arguments n, N_max, and threshold, 
 and computes the Mandelbrot fractal with a Mandelbrot iteration on each point. 
 The output is a figure which also saves to a png file. It is titled mandelbrot.png.
@@ -12,7 +12,7 @@ change the input parameters to output a different figure.
 
 
 
-#Markov Chains
+#Task 2: Markov Chains
 The second task is relating to Markov Chains. 
 A transition matrix P is generated out of random numbers, as well as probability distribution
 p which is shown as a vector. 
